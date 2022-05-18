@@ -1,0 +1,109 @@
+.navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+  border-right: 1px solid;
+}
+
+.navbar .navbar-nav .nav-link {
+  padding: 1em;
+}
+
+.navbar {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-brand {
+  padding-left: 0.2em;
+}
+
+.naslov {
+  padding: 80px 70px 20px 70px;
+  color: #1E5128;
+}
+
+.kosa {
+  padding-top: 20px;
+}
+
+.popust {
+  font-size: 30px;
+  padding: 20px 20px;
+}
+
+.usluge {
+  padding-top: 0;
+}
+
+.bojanje {
+  width: 100px;
+  padding-top: 20px;
+}
+
+.sisanje {
+  width: 160px;
+}
+
+.krema {
+  width: 180px;
+  padding-top: 80px;
+}
+
+.ime-salona {
+  font-family: "Satisfy";
+  font-size: 100px;
+  margin: 0;
+}
+
+.posebno {
+  padding: 20px 20px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Satisfy";
+  font-size: 70px;
+  margin: 0;
+}
+
+h2, p {
+  font-family: 'Baskervville', serif;
+}
+
+h2 {
+  font-size: 40px;
+  letter-spacing: 10px;
+}
+
+p {
+  font-size: 18px;
+}
+
+#uvod {
+  background-color: #E9EFC0;
+}
+
+#popust {
+  background-color: #1E5128;
+  color: #E9EFC0;
+  padding: 20px;
+}
+
+#ponuda {
+  background-color: #E4E9BE;
+  color: #1E5128;
+  padding: 40px;
+}
+
+#kontakt {
+
+  padding: 20px;
+  background-color: #1E5128;
+  color: #E9EFC0;
+}
